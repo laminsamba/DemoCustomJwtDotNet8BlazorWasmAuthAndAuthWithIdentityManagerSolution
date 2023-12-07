@@ -1,4 +1,4 @@
-# Build Secure .NET 8 APIs With Custom JWT Authentication & Authorization using Identity Manager! 🔒🚀 https://youtu.be/owk9faapaBs
+# Build Secured .NET 8 APIs With Custom JWT Authentication & Authorization using Identity Manager! 🔒🚀 https://youtu.be/owk9faapaBs
 ![Screenshot 2023-12-07 124859](https://github.com/Netcode-Hub/DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution/assets/110794348/08a0ab4c-723d-426a-b873-c4e55c5274dd)
 
 
