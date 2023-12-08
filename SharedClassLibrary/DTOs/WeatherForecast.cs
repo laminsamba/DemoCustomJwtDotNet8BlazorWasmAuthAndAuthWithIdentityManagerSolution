@@ -1,4 +1,4 @@
-namespace IdentityManagerServerApi
+namespace SharedClassLibrary.DTOs
 {
     public class WeatherForecast
     {

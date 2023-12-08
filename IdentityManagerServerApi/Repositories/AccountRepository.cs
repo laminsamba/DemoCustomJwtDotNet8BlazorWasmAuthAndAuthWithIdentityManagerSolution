@@ -9,11 +9,7 @@ using System.Text;
 using static SharedClassLibrary.DTOs.ServiceResponses;
 namespace IdentityManagerServerApi.Repositories
 {
-   public class AccountRepository(
-        UserManager<ApplicationUser> userManager,
-        RoleManager<IdentityRole> roleManager,
-        IConfiguration config)
-        : IUserAccount
+   public class AccountRepository(UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager, IConfiguration config) : IUserAccount
     {
     
         public async Task<GeneralResponse> CreateAccount(UserDTO userDTO)
